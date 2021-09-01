@@ -1,0 +1,14 @@
+[
+    {
+        "descripcion": "Pasear al perro",
+        "completado": "true"
+    },
+    {
+        "descripcion": "Preparar el curso",
+        "completado": false
+    },
+    {
+        "descripcion": "Vacunar al gato",
+        "completado": false
+    }
+]
